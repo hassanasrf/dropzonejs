@@ -24,8 +24,8 @@
           </form>
         </div>
       </div>
+      <span class="badge badge-pill badge-primary">@hassanasrf</span>
     </div>
-   <span class="badge badge-pill badge-primary">@hassanasrf</span>
   </div>
 </div>
   
