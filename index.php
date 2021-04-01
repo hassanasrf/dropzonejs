@@ -25,8 +25,8 @@
         </div>
       </div>
     </div>
+   <span class="badge badge-pill badge-primary">@hassanasrf</span>
   </div>
-  <span class="badge badge-pill badge-primary">@hassanasrf</span>
 </div>
   
 <script type="text/javascript">
